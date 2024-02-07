@@ -9,6 +9,5 @@ def xyz_there(str):
     
   return False
 
-
 string = 'xyz.'
 print(xyz_there(string))
